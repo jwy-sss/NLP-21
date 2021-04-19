@@ -1,5 +1,5 @@
-#用来做转发用的
-# THUMT: An Open Source Toolkit for Neural Machine Translation
+
+# 用来做转发用的 THUMT: An Open Source Toolkit for Neural Machine Translation
 
 ## Contents
 
